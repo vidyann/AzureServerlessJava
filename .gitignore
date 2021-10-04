@@ -34,5 +34,7 @@ hs_err_pid*
 
 # Azure Functions
 local.settings.json
+__azurite_db_blob__.json
+__azurite_db_blob_extent__.json
 bin/
 obj/
